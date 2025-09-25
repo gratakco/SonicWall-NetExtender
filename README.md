@@ -98,7 +98,3 @@ You can define and save multiple connection profiles for easy access to differen
    * **Access internal file systems**
    * **Run enterprise-level applications**
    * **Transfer files securely**
-
-## Command Line Interface (CLI) Usage
-
-NetExtender ships with a powerful **CLI utility (`NECLI`)**, ideal for scripting and advanced use cases.
